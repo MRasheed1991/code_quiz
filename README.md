@@ -1,6 +1,6 @@
 # Code Quiz game
 
-click [here](https://mrasheed1991.github.io/code_quiz/)
+click [here](https://mrasheed1991.github.io/code_quiz/) to view the deployed application
 
 # Description
 
@@ -19,6 +19,7 @@ We've been tasked with creating a coding quiz from scratch following a certain c
 
 #Screenshots
 
-![Screenshot (1)](./assets/screenshots/Screenshot-1.png)
-![Screenshot (2)](./assets/screenshots/Screenshot-2.png)
-![Screenshot (3)](./assets/screenshots/Screenshot-3.png)
+![Screenshot (1)](./assets/Screenshots/screenshot-1.png)
+![Screenshot (2)](./assets/Screenshots/screenshot-2.png)
+![Screenshot (3)](./assets/Screenshots/screenshot-3.png)
+![Screenshot (4)](./assets/Screenshots/screenshot-4.png)
