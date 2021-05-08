@@ -4,24 +4,31 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
+    <title>Code Quiz</title>
   </head>
   <body>
-    <header>
+    <header class="header">
       <div>
-        <a></a>
+        <a href="./highscores.html">View High Scores</a>
       </div>
-      <div>
-        <span></span>
-      </div>
+      <div>Time: <span class="timer" id="timer">0</span></div>
     </header>
-    <div>
-      <h1></h1>
-      <div></div>
-      <div></div>
-      <button></button>
-    </div>
-    >
+    <main id="quiz-app">
+      <div class="start-quiz-container" id="start-quiz-container">
+        <h1>Code Quiz</h1>
+        <div class="info">
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam totam
+          et enim quasi sit ducimus sed! Illum facilis dolores doloribus nobis
+          ad sint repudiandae tenetur enim cupiditate. Labore, reprehenderit
+          dignissimos?
+        </div>
+        <div>
+          <button class="btn" id="start-quiz-btn">Start Quiz</button>
+        </div>
+      </div>
+    </main>
+    <script src="./assets/js/util.js"></script>
+    <script src="./assets/js/script.js"></script>
   </body>
 </html>
